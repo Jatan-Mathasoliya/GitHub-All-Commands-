@@ -16,7 +16,7 @@ ANS:- This command used to add file in staging area.
 git commit -m "Initial commit"
 ANS:- This command used to commit file in repository.
 ```
-#### **4. Make changes to the file: **
+#### **4. Make changes to the file:**
 ```bash
 echo "Added a description" >> README.md
 ANS:- This command used to add content in file.
