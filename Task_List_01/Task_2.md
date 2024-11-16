@@ -8,7 +8,7 @@ ANS:- This command is use to make Folder
 ANS:- This command is use to navigate to the folder
 ```
 
-#### **2. Initialize it as a Git repository:**   
+#### **2. Initialize it as a Git repository:** 
 ```bash
 1) git init
 ANS:- This command is use to initialize the folder as a Git repository
