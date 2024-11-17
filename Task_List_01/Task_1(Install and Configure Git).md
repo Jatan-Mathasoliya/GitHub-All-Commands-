@@ -1,5 +1,5 @@
 ## **Task 1: Install and Configure Git**
-#### **1. Configure Git with your username and email: **
+#### **1. Configure Git with your username and email:**
 ```bash
 git config --global user.name "Your Name"
 ANS:- This command sets your name in Git's global configuration.
